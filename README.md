@@ -1,6 +1,7 @@
 <h1>Hi, I'm Govind Chourasiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a freshman ,learning python,CSS3,HTML5 and an open source contributor. I'm currently a Learner and pursuing B.tech CSE at Lovely Professional University,India.
+ I'm currently pursuing B.tech CSE at Lovely Professional University,India. I am having strong command over DSA concepts . Having strong command on programming languages like Java and Cpp.
+ Alongwith, that I am also proficient at python,HTML,CSS,Javascript and SQL.
 
 Welcome to my GitHub profile! I am delighted to have you here and I hope you find my projects and contributions insightful and valuable. As an aspiring software developer, I am committed to constantly improving my skills and knowledge to create innovative solutions that make a positive impact in the world.
 
